@@ -1,0 +1,20 @@
+#text{
+    animation: color 5s infinite
+}
+
+@keyframes color{
+    0%, 100% {fill:black;}
+    
+    50% {
+        fill:white;
+    }
+}
+
+
+
+
+
+
+
+
+
