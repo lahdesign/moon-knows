@@ -9,7 +9,13 @@
         fill:white;
     }
 }
+#falls_apart{
+    animation-duration: 5s;
+}
 
+svg{
+    padding-top:200px;
+}
 
 
 
