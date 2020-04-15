@@ -20,6 +20,30 @@ svg{
     padding-top:200px;
 }
 
+#elect{
+    animation-duration: .1s;
+    animation-delay: 4s;
+    /* enter any number or infinite, default is 1 */
+    animation-iteration-count: 7;
+
+}
+
+#rified{
+    animation-duration: .2s;
+    animation-delay: 4.5s;
+    /* enter any number or infinite, default is 1 */
+    animation-iteration-count: 8;
+
+}
+
+#without{
+    animation-duration: .4s;
+    animation-delay: 4s;
+    /* enter any number or infinite, default is 1 */
+    animation-iteration-count: 9;
+
+}
+
 
 
 
